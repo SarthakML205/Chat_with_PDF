@@ -1,0 +1,12 @@
+streamlit 
+pypdf2
+langchain
+langchain_core
+langchain_community
+python-dotenv
+faiss-cpu
+huggingface_hub
+openai
+InstructorEmbedding
+sentence-transformers==2.2.2
+torch
